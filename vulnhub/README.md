@@ -7,6 +7,7 @@ VulnHubで公開されている、意図的に脆弱なマシンを使った学�
 | Machine | Difficulty | Status | Write-up |
 |---|---|---|---|
 | Kioptrix: Level 1 | Easy | Rooted ✅ | [View](./kioptrix-level-1/kioptrix-level-1.md) |
+| Kioptrix: Level 1.1 | Easy | Rooted ✅ | [View](./kioptrix-level-1/kioptrix-level-1.1.md) |
 
 ## Notes
 
