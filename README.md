@@ -16,8 +16,10 @@ write-ups/
 ├── README.md
 └── vulnhub/
     ├── README.md
-    └── kioptrix-level-1/
-        └── kioptrix-level-1.md
+    ├── kioptrix-level-1/
+    │   └── kioptrix-level-1.md
+    └── kioptrix-level-1.1/
+        └── kioptrix-level-1.1.md
 ```
 
 > These write-ups are for educational purposes only.  
